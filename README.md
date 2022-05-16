@@ -1,5 +1,4 @@
 # Real Estate Website
-(https://real-estate-12-04.herokuapp.com/)
 ## Technologies Used
 ### Front End Technologies:
 • HTML
